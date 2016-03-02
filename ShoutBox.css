@@ -2,3 +2,7 @@
 .footer-code.footer-module {
 	display: none;
 }
+
+#submitPostForm .form-group:nth-child(1){
+  display:none;
+}
